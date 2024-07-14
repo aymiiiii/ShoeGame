@@ -1,0 +1,12 @@
+{
+    "login_details_admin": [
+        {
+            "username": "admin",
+            "password": "123"
+        },
+        {
+            "username": "admin",
+            "password": "1234"
+        }
+    ]
+}

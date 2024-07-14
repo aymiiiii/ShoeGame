@@ -1,0 +1,196 @@
+{
+    "order_details": [
+        {
+            "Order Number": 30683785,
+            "Full Name": "Anne",
+            "Contact Number": "00092384832",
+            "Email": "ann@gmail.com",
+            "Address": "Armenia St",
+            "Region": "13",
+            "Province": "AGUSAN DEL NORTE",
+            "Municipality": "BAY",
+            "Barangay": "DE LA PAZ",
+            "Payment": "Debit Card",
+            "Items": [
+                {
+                    "name": "Nocta",
+                    "size": "XL",
+                    "price": 4495
+                },
+                {
+                    "name": "Air Jordan Flight MVP1 Elevate Low",
+                    "size": "45",
+                    "price": 7095
+                }
+            ],
+            "Total Cost": 11590,
+            "Status": "Delivered"
+        },
+        {
+            "Order Number": 48343660,
+            "Full Name": "Pharsa",
+            "Contact Number": "089328328",
+            "Email": "pharsa@gmail.com",
+            "Address": "Osmenia St",
+            "Region": "13",
+            "Province": "SURIGAO DEL NORTE",
+            "Municipality": "BURGOS",
+            "Barangay": "MATIN-AO",
+            "Payment": "Cash on Delivery",
+            "Items": [
+                {
+                    "name": "Air Jordan Flight MVP1 Low Se",
+                    "size": "39",
+                    "price": 1519
+                }
+            ],
+            "Total Cost": 1519,
+            "Status": "Delivered"
+        },
+        {
+            "Order Number": 95757773,
+            "Full Name": "Wyne",
+            "Contact Number": "099324732",
+            "Email": "wyne@gmial.com",
+            "Address": "Digong St",
+            "Region": "01",
+            "Province": "LA UNION",
+            "Municipality": "BACNOTAN",
+            "Barangay": "BACSIL",
+            "Payment": "Debit Card",
+            "Items": [
+                {
+                    "name": "Jordan",
+                    "size": "S",
+                    "price": 799
+                },
+                {
+                    "name": "Jordan Flight MVP",
+                    "size": "S",
+                    "price": 999
+                }
+            ],
+            "Total Cost": 1798,
+            "Status": "Delivered"
+        },
+        {
+            "Order Number": 92712742,
+            "Full Name": "Elias",
+            "Contact Number": "090923894573",
+            "Email": "elias@gmail.com",
+            "Address": "MErchan",
+            "Region": "4A",
+            "Province": "QUEZON",
+            "Municipality": "LUCENA CITY",
+            "Barangay": "BARANGAY 3 (POB.)",
+            "Payment": "Cash on Delivery",
+            "Items": [
+                {
+                    "name": "Air Jordan Flight MVP1 Elevate Low",
+                    "size": "45",
+                    "price": 7095
+                },
+                {
+                    "name": "Air Jordan Flight MVP1 Low Se",
+                    "size": "45",
+                    "price": 7519
+                },
+                {
+                    "name": "Jordan Flight MVP Spizikey Low",
+                    "size": "45",
+                    "price": 7096
+                }
+            ],
+            "Total Cost": 21710,
+            "Status": "Delivered"
+        },
+        {
+            "Order Number": 95626509,
+            "Full Name": "Theresa",
+            "Contact Number": "08340983432",
+            "Email": "theresa@gmail.com",
+            "Address": "Kaliwa ",
+            "Region": "01",
+            "Province": "PANGASINAN",
+            "Municipality": "AGUILAR",
+            "Barangay": "BAYBAY",
+            "Payment": "Debit Card",
+            "Items": [
+                {
+                    "name": "Air Jordan Flight MVP1 Low",
+                    "size": "41",
+                    "price": 3195
+                },
+                {
+                    "name": "Air Jordan Flight MVP1 Elevate Low",
+                    "size": "39",
+                    "price": 1095
+                }
+            ],
+            "Total Cost": 4290,
+            "Status": "Pending"
+        },
+        {
+            "Order Number": 65871495,
+            "Full Name": "Gabirel",
+            "Contact Number": "5378464694",
+            "Email": "gabriel@gmail.com",
+            "Address": "Thomas St.",
+            "Region": "4B",
+            "Province": "ORIENTAL MINDORO",
+            "Municipality": "CITY OF CALAPAN",
+            "Barangay": "BAYANAN I",
+            "Payment": "Cash on Delivery",
+            "Items": [
+                {
+                    "name": "Air Jordan Flight MVP1 Low Se",
+                    "size": "44",
+                    "price": 6519
+                },
+                {
+                    "name": "Air Jordan Flight MVP1 Retro HihghOG Latte",
+                    "size": "42",
+                    "price": 4519
+                }
+            ],
+            "Total Cost": 11038,
+            "Status": "To Ship"
+        },
+        {
+            "Order Number": 18634572,
+            "Full Name": "Jude",
+            "Contact Number": "90732498732",
+            "Email": "jude22@gmail.com",
+            "Address": "Pluto St.",
+            "Region": "13",
+            "Province": "SURIGAO DEL NORTE",
+            "Municipality": "CLAVER",
+            "Barangay": "DAYWAN",
+            "Payment": "Credit Card",
+            "Items": [
+                {
+                    "name": "Jordan Flight Essentials",
+                    "size": "L",
+                    "price": 1099
+                },
+                {
+                    "name": "Jordan Flight MVP",
+                    "size": "S",
+                    "price": 999
+                },
+                {
+                    "name": "Jordan Sport Jam",
+                    "size": "XL",
+                    "price": 4795
+                },
+                {
+                    "name": "Jordan Golf",
+                    "size": "M",
+                    "price": 4099
+                }
+            ],
+            "Total Cost": 10992,
+            "Status": "To Ship"
+        }
+    ]
+}
